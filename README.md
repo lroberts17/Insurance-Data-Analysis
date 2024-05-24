@@ -12,4 +12,4 @@ This program will use Python 3 to analyze data about medical insurance costs con
 + region: The beneficiary's residential area in the US sorted by northeast, southeast, southwest, northwest.
 + charges: Individual medical costs billed by health insurance
 
-The Jupyter Notebook file 'us-medical-insurance-costs.ipynb' contains a walkthrough of the process and the Python code that performs the analysis.
+The Jupyter Notebook file `us-medical-insurance-costs.ipynb` contains a walkthrough of the process and the Python code that performs the analysis.
